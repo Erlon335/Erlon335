@@ -1,7 +1,7 @@
 ## Bem Vindo(a) ao meu DevPerfil.
  <div>
    <a href="https://github.com/Erlon335">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erlon335&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erlon335&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><div/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erlon335&layout=compact&langs_count=6&theme=gruvbox"/>
 </div>
     
