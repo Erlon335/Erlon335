@@ -13,6 +13,17 @@
   <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 </div>
+
+</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Erlon335&radius=16&theme=nord&area=true&order=5" height="450em" alt="activity-graph graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=Erlon335&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150em" alt="trophy graph" />
+  </div>
+
+---
+
+<div align="center"><img src="https://raw.githubusercontent.com//Erlon335/Erlon335/output/snake.svg" alt="Snake animation" /></div>
+
+---
  
 <br>
 <h2>Experiencias Profissionais:<h2>
