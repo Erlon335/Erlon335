@@ -20,9 +20,6 @@
   </div>
 
 
-### Snake Animation
-![Snake animation](https://github.com/Erlon335/Erlon335/blob/output/dist/snake.svg)
-
  
 <br>
 <h2>Experiencias Profissionais:<h2>
