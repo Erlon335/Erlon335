@@ -6,11 +6,11 @@ on:
   schedule:
       # Será atualizado a cada 5 horas.
     - cron: "0 */5 * * *"
-
+  
+# Permite executar na na lista de Actions (utilizado para testes de build).
 permissions:
   contents: write
   
-
 # Regras
 jobs:
   build:
