@@ -21,7 +21,7 @@
 
 ---
 
-<div align="center"><img src="https://raw.githubusercontent.com//Erlon335/Erlon335/output/snake.svg" alt="Snake animation" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Erlon335/Erlon335/output/snake.svg" alt="Snake animation" /></div>
 
 ---
  
