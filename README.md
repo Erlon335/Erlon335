@@ -20,7 +20,8 @@
   </div>
 
 
-<div align="center"><img src="https://github.com/Erlon335/Erlon335/blob/output/dist/snake.svg" alt="Snake animation" /></div>
+### Snake Animation
+![Snake animation](https://github.com/Erlon335/Erlon335/blob/output/dist/snake.svg)
 
  
 <br>
