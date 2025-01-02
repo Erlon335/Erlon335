@@ -17,7 +17,7 @@ jobs:
       # Gera o arquivo SVG com o snake
       - uses: Platane/snk@v2
         with:
-          github_user_name: seu_usuario
+          github_user_name: Erlon335
           outputs: dist/snake.svg
 
       # Faz upload do resultado no GitHub
