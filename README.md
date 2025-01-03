@@ -22,7 +22,8 @@
   </div>
 
 ### Snake Commits
-![snake gif](https://github.com/Erlon335/Erlon335/blob/output/github-contribution-grid-snake.svg)
+<div align="center"><img src="https://github.com/Erlon335/Erlon335/blob/output/snake.svg"/><div/>
+<br>
 <br>
 <h2>Experiencias Profissionais:<h2>
 <div>
