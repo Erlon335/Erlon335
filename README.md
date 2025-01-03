@@ -4,7 +4,7 @@
  <div align="center">
    <a href="https://github.com/Erlon335">
    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Erlon335&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img src="https://streak-stats.demolab.com?user=Erlon335&locale=en&mode=daily&theme=panda&hide_border=false&border_radius=5&order=3" height="140em" alt="streak graph" />
+   <img height="140em" src="https://streak-stats.demolab.com?user=Erlon335&locale=en&mode=daily&theme=panda&hide_border=false&border_radius=5&order=3" alt="streak graph" />
 </div>
 
 ---
