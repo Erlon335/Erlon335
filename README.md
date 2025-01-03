@@ -24,8 +24,9 @@
   <img src="https://github-profile-trophy.vercel.app?username=Erlon335&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150em" alt="trophy graph" />
   </div>
 
-## Snake Commits
-<div align="center"><img src="https://github.com/Erlon335/Erlon335/blob/output/snake.svg"/><div/>
+### Snake Animation
+![Snake animation](https://github.com/Erlon335/Erlon335/blob/output/dist/snake.svg)
+
 <br>
 <br>
 <h2 align="left">Experiencias Profissionais:<h2>
