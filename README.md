@@ -1,4 +1,4 @@
-<h1 align="center">👋🏻Hi, my name is Érlon Alves and Welcome to my DevProfile.<h1/>
+<h1 align="center">👋🏻Hi, my name is Érlon Alves and Welcome to my DevProfile.<h1>
 
  <div align="center">
    <a href="https://github.com/Erlon335">
@@ -8,7 +8,7 @@
 
 ---
 
-## 🖋 Languages
+## 📚 Languages
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&ensp;
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&ensp;
