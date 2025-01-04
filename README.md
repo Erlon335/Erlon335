@@ -6,8 +6,6 @@
    <img height="140em" src="https://streak-stats.demolab.com?user=Erlon335&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" alt="streak graph" />
 </div>
 
----
-
 ## 📚 Languages
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&ensp;
