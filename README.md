@@ -43,7 +43,7 @@
   </div>
   
 <div align="center">
-<img src="https://github.com/Erlon335/Erlon335/blob/output/github-contribution-grid-snake-dark.svg">
+<img src="https://github.com/Erlon335/Erlon335/blob/main/.github/workflows/github-contribution-grid-snake-dark.svg">
 <div/>
 
 ---
