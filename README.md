@@ -1,6 +1,5 @@
-<h1 align="center">Hi, my name is Érlon Alves and Welcome to my DevProfile.<h1>
+<h1 align="center">👋🏻Hi, my name is Érlon Alves and Welcome to my DevProfile.<h1/>
 
-<br>
  <div align="center">
    <a href="https://github.com/Erlon335">
    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Erlon335&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -11,13 +10,13 @@
 
 ## 🖋 Languages
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />        
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&ensp;
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&ensp;
+  <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&ensp;
+  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">&ensp;
+  <img align="center" alt="Sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">&ensp;
+  <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">&ensp;
+  <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /><br>       
 </div>
 <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erlon335&layout=compact&langs_count=6&theme=gruvbox"/>
@@ -26,15 +25,14 @@
 
 ## 🛠️ Tools
 <div>
- <img align="center" alt="WordPress" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg"/>&ensp;
- <img align="center" alt="VsCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"/>&ensp;
- <img align="center" alt="Unity" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg"/>&ensp;
- <img align="center" alt="MySql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>&ensp;
- <img align="center" alt="GitHub" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />        
+ <img alt="WordPress" height="60" width="60" src="https://skillicons.dev/icons?i=wordpress"/>&ensp;
+ <img alt="VsCode" height="60" width="60" src="https://skillicons.dev/icons?i=vscode"/>&ensp;
+ <img alt="Unity" height="60" width="60" src="https://skillicons.dev/icons?i=unity"/>&ensp;
+ <img alt="MySql" height="60" width="60" src="https://skillicons.dev/icons?i=mysql&theme=light"/>&ensp;
+ <img alt="GitHub" height="60" width="60" src="https://skillicons.dev/icons?i=github"/>&ensp;
+ <img alt="Git" height="60" width="60" src="https://skillicons.dev/icons?i=git"/>
 <div/>
           
-
-
 ---
 
 </div>
