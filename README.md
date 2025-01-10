@@ -1,8 +1,7 @@
-<h1 align="center">👋🏻Hi, my name is Érlon Alves , Welcome to my DevProfile.</h1>
+<h1 align="center">👋🏻Hi, my name is Érlon Alves, Welcome to my DevProfile.</h1>
 
  <div align="center">
-   <a href="https://github.com/Erlon335"><img height="140em" src="https://github-readme-stats.vercel.app/api?username=Erlon335&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></a>
-   <a href="https://git.io/streak-stats"><img height="140em" src="https://streak-stats.demolab.com?user=Erlon335&theme=dark" alt="GitHub Streak" /></a>   
+   <a href="https://github.com/Erlon335"><img height="140em" src="https://github-readme-stats.vercel.app/api?username=Erlon335&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></a>   
 </div>
 
 ---
