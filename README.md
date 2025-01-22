@@ -17,6 +17,7 @@
   <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">&ensp;
   <img align="center" alt="java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="cmake" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg">
 </div>
 <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erlon335&layout=compact&langs_count=6&theme=gruvbox"/>
