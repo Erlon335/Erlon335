@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 <h1 align="center">👋🏻Hi, my name is Érlon Alves, Welcome to my DevProfile.</h1>
 
-## 📚 Languages
+## 📚 Skills Languages
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&ensp;
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&ensp;
