@@ -32,7 +32,7 @@
  <img alt="MySql" height="60" width="60" src="https://skillicons.dev/icons?i=mysql&theme=light">&ensp;
  <img alt="GitHub" height="60" width="60" src="https://skillicons.dev/icons?i=github">&ensp;
  <img alt="Git" height="60" width="60" src="https://skillicons.dev/icons?i=git">&ensp;
- <img alt="Replit" height="60" width="60" src="https://skillicons.dev/icons?i=replit">
+ 
 <div/>
           
 ---
